@@ -1,0 +1,2 @@
+Manual de Usuario
+Incremento corriendo de forma local o remota

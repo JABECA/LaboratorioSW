@@ -1,0 +1,4 @@
+Documento de Especificación de Requisitos
+Documento de Especificación de Casos de Uso
+Diagrama de Casos de Uso
+Diseño de Interfaces (Mockups)

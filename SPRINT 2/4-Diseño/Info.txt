@@ -1,0 +1,4 @@
+Diagrama de Clases
+Modelo Arquitectónico (MVC - Web)
+Diagrama Entidad/Relación (BD)
+Descripción de la Base de Datos
