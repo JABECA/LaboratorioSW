@@ -1,4 +1,0 @@
-Plan de Aseguramiento de la Calidad del SW
-Plan de Mitigación, Monitoreo y Manejo del Riesgo (MMMR)
-Plan del Proyecto
-Plan del Sprint
